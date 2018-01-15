@@ -1,5 +1,5 @@
 # Convert-into-binary
-How to convert a value from Decimal to binary
+How to convert a value from Decimal to binary in Java
 
 package text1;
 import java.util.Scanner;
